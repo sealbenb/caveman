@@ -1,4 +1,4 @@
-# caveman — installer shim (Windows / PowerShell).
+# KAVEMANN — installer shim (Windows / PowerShell).
 #
 # Thin wrapper around bin/install.js (the unified Node installer). Every flag
 # you'd pass to bin/install.js can be passed here; we just forward them.
